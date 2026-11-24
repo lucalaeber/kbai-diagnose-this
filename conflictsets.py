@@ -1,3 +1,9 @@
+"""
+Knowledge Based AI - Programming assignment 3: Diagnose THIS
+Group: 21
+Authors: Luca Laber (s1089333), Nadezhda Kancheva (s1141095)
+"""
+
 from z3 import *
 from itertools import chain, combinations
 from typing import Tuple, List, Callable
